@@ -1,0 +1,43 @@
+.row{
+    /* width: 100%; */
+    text-align:justify;
+    font-weight: 300;
+    /* padding: 20%; */
+    
+ }
+
+#contact{
+    background-color:rgb(76, 76, 136);
+}
+
+#contact label{
+    color: white;
+    font-style: italic;
+}
+
+
+#contact input{
+    background-color: rgb(76, 76, 136);
+    /* width: 80%; */
+    height: 50px;
+    border-top:none;
+    border-left: none;
+    border-right: none;
+    border-radius: 0%;
+}
+
+
+.inputbox{
+
+    background-color: rgb(76, 76, 136);
+    /* width: 80%; */
+    height: 50px;
+    border-top:none;
+    border-left: none;
+    border-right: none;
+
+}
+
+.formcontrol{
+    
+}
